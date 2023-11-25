@@ -1,5 +1,15 @@
-### CHAE HEE JOO 👋
-
+# CHAE HEE JOO 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heejoo0203)](https://solved.ac/heejoo0203/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheejoo0203&count_bg=%23AEBBFF&title_bg=%230068FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 💪Skills
+### Platforms & Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-00B1E7.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+### Tools
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5F259F.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 <!--
 **heejoo0203/heejoo0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
