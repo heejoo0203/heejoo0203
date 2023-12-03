@@ -11,9 +11,8 @@
 ### Tools
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Vs%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-###🌱 I’m currently learning
-Data Structure
-Database System
+### 🌱 I’m currently learning
+Data Structure & Database System
 
 <!--
 
